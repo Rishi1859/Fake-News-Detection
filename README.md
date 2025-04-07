@@ -1,0 +1,1 @@
+Fake news detection involves using machine learning to classify news articles as real or fake. It involves cleaning the text, extracting features using methods like TF-IDF, and training models such as Logistic Regression. This helps prevent the spread of misinformation and ensures the credibility of online content.
